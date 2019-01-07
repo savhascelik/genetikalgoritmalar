@@ -5,10 +5,15 @@ Yüksek lisans egitimim sırasında genetik algoritmalar konusunda yazdığım p
 Program C# ile .Net ortamında hazırlandı:
 
 Popülasyonlar: 10,20,30
+
 Seçim Algoritmaları: Rank, Elitizm
+
 Çaprazlama Algoritmaları: OX2 (Sıra Temelli) ve Heuristic(Sezgisel)  (P=0.5)
+
 Mutasyon Algoritmaları: Displacement(Yerine Geçme) ,Reciprocal Exchange(Karşılıklı Değişim) (P=0.01)
+
 İterasyonlar: 500,100,2000
+
 
 
 
