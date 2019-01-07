@@ -1,0 +1,23 @@
+C:\Users\SAAS\source\repos\GenetikProje\GenetikProje\bin\Debug\GenetikProje.exe.config
+C:\Users\SAAS\source\repos\GenetikProje\GenetikProje\bin\Debug\GenetikProje.exe
+C:\Users\SAAS\source\repos\GenetikProje\GenetikProje\bin\Debug\GenetikProje.pdb
+C:\Users\SAAS\source\repos\GenetikProje\GenetikProje\bin\Debug\CircularProgressBar.dll
+C:\Users\SAAS\source\repos\GenetikProje\GenetikProje\obj\Debug\GenetikProje.csprojResolveAssemblyReference.cache
+C:\Users\SAAS\source\repos\GenetikProje\GenetikProje\obj\Debug\GenetikProje.Form1.resources
+C:\Users\SAAS\source\repos\GenetikProje\GenetikProje\obj\Debug\GenetikProje.Properties.Resources.resources
+C:\Users\SAAS\source\repos\GenetikProje\GenetikProje\obj\Debug\GenetikProje.csproj.GenerateResource.Cache
+C:\Users\SAAS\source\repos\GenetikProje\GenetikProje\obj\Debug\GenetikProje.csproj.CoreCompileInputs.cache
+C:\Users\SAAS\source\repos\GenetikProje\GenetikProje\obj\Debug\GenetikProje.exe
+C:\Users\SAAS\source\repos\GenetikProje\GenetikProje\obj\Debug\GenetikProje.pdb
+C:\Users\SAAS\source\repos\GenetikProje\GenetikProje\obj\Debug\GenetikProje.csproj.ResolveComReference.cache
+F:\yuksek_lisans\finaller\Rembiye Hoca\genetik_algoritmalar_Savaş_HASÇELİK\code\GenetikProje\GenetikProje\bin\Debug\GenetikProje.exe.config
+F:\yuksek_lisans\finaller\Rembiye Hoca\genetik_algoritmalar_Savaş_HASÇELİK\code\GenetikProje\GenetikProje\bin\Debug\GenetikProje.exe
+F:\yuksek_lisans\finaller\Rembiye Hoca\genetik_algoritmalar_Savaş_HASÇELİK\code\GenetikProje\GenetikProje\bin\Debug\GenetikProje.pdb
+F:\yuksek_lisans\finaller\Rembiye Hoca\genetik_algoritmalar_Savaş_HASÇELİK\code\GenetikProje\GenetikProje\obj\Debug\GenetikProje.csprojResolveAssemblyReference.cache
+F:\yuksek_lisans\finaller\Rembiye Hoca\genetik_algoritmalar_Savaş_HASÇELİK\code\GenetikProje\GenetikProje\obj\Debug\GenetikProje.csproj.ResolveComReference.cache
+F:\yuksek_lisans\finaller\Rembiye Hoca\genetik_algoritmalar_Savaş_HASÇELİK\code\GenetikProje\GenetikProje\obj\Debug\GenetikProje.Form1.resources
+F:\yuksek_lisans\finaller\Rembiye Hoca\genetik_algoritmalar_Savaş_HASÇELİK\code\GenetikProje\GenetikProje\obj\Debug\GenetikProje.Properties.Resources.resources
+F:\yuksek_lisans\finaller\Rembiye Hoca\genetik_algoritmalar_Savaş_HASÇELİK\code\GenetikProje\GenetikProje\obj\Debug\GenetikProje.csproj.GenerateResource.Cache
+F:\yuksek_lisans\finaller\Rembiye Hoca\genetik_algoritmalar_Savaş_HASÇELİK\code\GenetikProje\GenetikProje\obj\Debug\GenetikProje.csproj.CoreCompileInputs.cache
+F:\yuksek_lisans\finaller\Rembiye Hoca\genetik_algoritmalar_Savaş_HASÇELİK\code\GenetikProje\GenetikProje\obj\Debug\GenetikProje.exe
+F:\yuksek_lisans\finaller\Rembiye Hoca\genetik_algoritmalar_Savaş_HASÇELİK\code\GenetikProje\GenetikProje\obj\Debug\GenetikProje.pdb
