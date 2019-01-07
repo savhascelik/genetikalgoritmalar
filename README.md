@@ -47,3 +47,13 @@ Makinelerden ilk 4 tanesi yer değiştirmeyecek. Bu arada konumları değişen m
 
 ![Screenshot](src/arayüz.jpg)
 
+
+
+
+Lisans:
+MIT
+
+Not: Programdaki kodların optimize edilmesi gerekebilir ve program yukarıda belirtilen algoritma ve problemlere %100 çözüm getirmez bu konuda herhangi bir sorumluluk kabul edilmemektedir. Saygılarımla
+
+Bilgi Paylaştıkça Çoğalır
+
