@@ -1,6 +1,9 @@
-# genetikalgoritmalar
+# Genetik Algoritmalar
 Genetik Algoritmalar yardımıyla iş atölye yerleşimi
 Yüksek lisans egitimim sırasında genetik algoritmalar konusunda yazdığım program:
+
+
+Program ilgili deşişkenleri bin/debug konumunda bulunan excell sayfasından alarak popülasyon üretir. Ardından seçim-çaprazlama-mutasyon döngüsünde belli bir iterasyonda en uygun maliyeti(bu problemde önceden hesaplanan en az 3111.0)  bulmaya çalışır.  
 
 Program C# ile .Net ortamında hazırlandı:
 
@@ -16,12 +19,13 @@ Mutasyon Algoritmaları: Displacement(Yerine Geçme) ,Reciprocal Exchange(Karş�
 
 
 
-
-Problem: İstasyonlar hangi konumda yerleştirmeli ki gerçekleştirilen toplam taşıma mesafesi en az olsun.
+### Problem: İstasyonlar hangi konumda yerleştirmeli ki gerçekleştirilen toplam taşıma mesafesi en az olsun.
  
  
  Taşıma mesafesi en az için:
- ![Screenshot](src/mesafefor.jpg)
+
+  <img src="src/mesafefor.jpg" title="Taşıma mesafesi en az için">
+
  
 
 Makineler Arası Mesafe: (Tablo simetrik :) )
@@ -33,4 +37,13 @@ Makineler Arası Taşıma Miktarı: (Tablo simetrik :) )
 
 
 ![Screenshot](src/taşımamiktarı.jpg)
+
+
+### Koşullar:
+Makinelerden ilk 4 tanesi yer değiştirmeyecek. Bu arada konumları değişen makinelerin uzaklığıda değişecek.
+
+
+### İşte Program Arayüzü
+
+![Screenshot](src/arayüz.jpg)
 
